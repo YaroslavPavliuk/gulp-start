@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/YaroslavPavliuk/gulp-start/issues"
   },
-  "homepage": "https://github.com/YaroslavPavliuk/gulp-start#readme"
+  "homepage": "https://github.com/YaroslavPavliuk/gulp-start#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
 }
